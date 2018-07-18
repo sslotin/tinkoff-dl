@@ -7,8 +7,11 @@
 2. Свёрточные сети
 
 3. Автоэнкодеры
+* https://zo7.github.io/blog/2016/09/25/generating-faces.html
 
 4. Генеративное моделирование
+* https://www.youtube.com/watch?v=AJVyzd0rqdc
+* https://junyanz.github.io/CycleGAN/
 
 5. Рекуррентные сети
 
