@@ -1,5 +1,9 @@
 # tinkoff-dl
 
+0. Пререквизиты
+* http://cs231n.github.io/python-numpy-tutorial/
+* Первые 165 страниц http://sereja.me/f/deep_learning_goodfellow.pdf
+
 1. Градиентный спуск
 * https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 * https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
