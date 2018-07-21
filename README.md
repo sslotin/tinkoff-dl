@@ -1,12 +1,13 @@
 # tinkoff-dl
 
 0. Пререквизиты
-* http://cs231n.github.io/python-numpy-tutorial/
-* Первые 165 страниц http://sereja.me/f/deep_learning_goodfellow.pdf
+* http://cs231n.github.io/python-numpy-tutorial/ <- ликбезы по numpy, scipy и matplotlib (не вполне исчерпывающие, но ок)
+* Первые 165 страниц http://sereja.me/f/deep_learning_goodfellow.pdf <- ликбезы по математике и ML
 
 1. Градиентный спуск
-* https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
-* https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
+* https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html <- короткое самодостаточное intro
+* https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b <- backprop
+* https://arxiv.org/pdf/1705.07860.pdf <- почему TensorFlow отстой
 
 2. Свёрточные сети
 
@@ -20,7 +21,7 @@
 5. Рекуррентные сети
 
 6. Языковые модели
-* http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+* http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <- оч классная статья, где-то от него же был видосик по ней
 
 7. Seq2seq
 * https://www.youtube.com/watch?v=LO_Q8e44-Nw
